@@ -7,4 +7,5 @@ a:link {
 }
 li {
   list-style-type: square;
+  font-weight: bold;
 }
