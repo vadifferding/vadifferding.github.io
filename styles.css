@@ -1,7 +1,10 @@
 p {
-  color: green;
+  color: orange;
 }
 
 a:link {
   color: pink;
+}
+li {
+  list-style-type: square;
 }
